@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9f1eb35-ce21-4162-b0f1-56ff14ad1dfb" /># 🍽️ Restaurant Management System
+<img width="964" height="4683" alt="127 0 0 1_8000_" src="https://github.com/user-attachments/assets/bcefb945-4874-4601-bae8-61badbf5c2bf" />
+
 
 A Restaurant Management System developed using Laravel to simplify restaurant operations. The system allows customers to browse menus, book tables, place orders, and submit feedback, while administrators can efficiently manage meals, categories, orders, bookings, and users.
 
